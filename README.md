@@ -1,5 +1,11 @@
 # Patient Readmission Risk Prediction
 
+## 📓 View the notebooks online (no setup)
+
+- [Exploratory Data Analysis (EDA)](https://nbviewer.org/github/tiefads/patient-readmission-risk/blob/main/notebooks/01_eda.ipynb)
+- [Modeling & Results](https://nbviewer.org/github/tiefads/patient-readmission-risk/blob/main/notebooks/02_modeling.ipynb)
+
+
 Predicting 30-day hospital readmissions using the **Diabetes 130-US Hospitals** dataset (UCI Machine Learning Repository).
 
 ---
