@@ -5,15 +5,12 @@
 You can view the work in three ways:
 
 - **GitHub Preview**
-  - [EDA](notebooks/01_eda.ipynb)
   - [Modeling](notebooks/02_modeling.ipynb)
 
 - **Nbviewer (better rendering)**
-  - [EDA via Nbviewer](https://nbviewer.org/url/raw.githubusercontent.com/tiefads/patient-readmission-risk/main/notebooks/01_eda.ipynb)
   - [Modeling via Nbviewer](https://nbviewer.org/url/raw.githubusercontent.com/tiefads/patient-readmission-risk/main/notebooks/02_modeling.ipynb)
 
 - **Static HTML (always works)**
-  - [EDA (HTML export)](reports/01_eda.html)
   - [Modeling (HTML export)](reports/02_modeling.html)
 
 
